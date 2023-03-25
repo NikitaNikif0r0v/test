@@ -1,0 +1,16 @@
+.top-bar-container {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-me-button {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-family: "BakbakOne";
+    font-size: 24px;
+}

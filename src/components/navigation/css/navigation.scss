@@ -1,0 +1,12 @@
+.navigation-item {
+  font-family: "BakbakOne";
+  color: rgb(85, 85, 85);
+  font-size: 34px;
+  text-align: left;
+  transition: all 0.3s ease;
+  cursor: pointer;
+
+  &:hover {
+    color: #fff;
+  }
+}
